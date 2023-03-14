@@ -1,0 +1,87 @@
+.log{
+    background-color: red;
+    color: black;
+    padding-top: 40px;
+    width:25%;
+    text-align: center;
+}
+.wh{
+    background-color: green;
+    color:black;
+    padding-top: 40px;
+    width:75%;
+    text-align: center;
+}
+.men{
+    background-color: yellow;
+    color:black;
+    padding-top: 20px;
+    width:100%;
+    text-align: center;
+}
+.sect1{
+    background-color:blue;
+    color: black;
+    padding-TOP: 50px;
+    width:33.333%;
+    text-align: center;
+}
+.sect2{
+        background-color: grey;
+        color:black;
+        padding-TOP: 50px;
+        width:33.33%;
+        text-align: center;
+}
+.sect3{
+        background-color: pink;
+        color:black;
+        padding-TOP: 50px;
+        width:33.33%;
+        text-align: center;
+}
+.pc{
+    background-color:mediumspringgreen;
+    color: black;
+    padding-top: 120px;
+    width:90%;
+    text-align: center;
+}
+.sb{
+    background-color: olive;
+    color: black;
+    padding-top: 120px;
+    width:10%;
+    text-align: center;
+}
+.pf{
+    background-color: dodgerblue;
+    color: black;
+    padding-top: 20px;
+    width:100%;
+    text-align: center;
+}
+.a{
+    display: flex;
+    height:100px;
+}
+.b{
+    display: flex;
+    height:60px;
+}
+.c{
+    display:flex;
+    height:120px;
+}
+.d{
+    display: flex;
+    height:300px;
+}
+.e{
+    display:flex;
+    height:60px;
+}
+.m{
+    height: 80vh;
+    width: 205vh;
+}
